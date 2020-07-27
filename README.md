@@ -1,5 +1,7 @@
 ### Hi there 👋
 
+I am Zain Rajani. Currently I am pursuing Post Graduate Diploma in Embedded System Design Engineering from Lambton College, Toronto Campus
+
 <!--
 **zrajani/zrajani** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
