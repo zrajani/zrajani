@@ -2,7 +2,7 @@
 
 I am Zain Rajani. Currently I am pursuing Post Graduate Diploma in Embedded System Design Engineering from Lambton College, Toronto Campus
 
-For various demonstration of my code you can visit my Youtube channel [Zain Rajani] (https://www.youtube.com/channel/UCHB-n0tcQdLlEWn9jAcUddg?view_as=subscriber)
+For various demonstration of my code you can visit my Youtube channel [Zain Rajani](https://www.youtube.com/channel/UCHB-n0tcQdLlEWn9jAcUddg?view_as=subscriber)
 
 <!--
 **zrajani/zrajani** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
