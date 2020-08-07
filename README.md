@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-I am Zain Rajani. Currently I am pursuing Post Graduate Diploma in Embedded System Design Engineering from Lambton College, Toronto Campus
+I am Zain Rajani. Currently I am pursuing Post Graduate Diploma in Embedded System Design Engineering from Lambton College, Toronto Campus. My major area of intrest are Image Processing, Data Structures, Embedded System and Control Design
 
 Demonstration of my repositories can be seen on my Youtube channel [Zain Rajani](https://www.youtube.com/channel/UCHB-n0tcQdLlEWn9jAcUddg?view_as=subscriber)
 
