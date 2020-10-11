@@ -7,7 +7,7 @@ I am Zain Rajani. Currently I am pursuing Post Graduate Diploma in Embedded Syst
 Demonstration of my repositories can be seen on my Youtube channel [Zain Rajani](https://www.youtube.com/channel/UCHB-n0tcQdLlEWn9jAcUddg?view_as=subscriber)
 
 
-🌱 I’m currently learning: OpenCV [Image Processing in C], <img src="https://simpleicons.org/icons/javascript.svg" alt="JavaScript" width="5%">, <img src="https://simpleicons.org/icons/linux.svg" alt="Linux OS" width="5%">
+🌱 I’m currently learning: <img src="https://www.osetc.com/en/wp-content/uploads/2019/03/install-opencv1.gif" alt="OpenCV" width="15%">,<img src="https://simpleicons.org/icons/javascript.svg" alt="JavaScript" width="5%">,<img src="https://simpleicons.org/icons/linux.svg" alt="Linux OS" width="5%">
 
 
 
