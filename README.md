@@ -10,7 +10,6 @@ I am Zain Rajani. Currently I am pursuing Post Graduate Diploma in Embedded Syst
 
 ## Ask me About
 
-
 ### Connect with me via 😊 : 
 Youtube channel: &nbsp; &nbsp; [<img src="https://simpleicons.org/icons/youtube.svg" alt="https://www.youtube.com/channel/UCHB-n0tcQdLlEWn9jAcUddg?view_as=subscriber" width="5%">](https://www.youtube.com/channel/UCHB-n0tcQdLlEWn9jAcUddg?view_as=subscriber)
 
