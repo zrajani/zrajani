@@ -4,6 +4,10 @@
 
 I am Zain Rajani. Currently I am pursuing Post Graduate Diploma in Embedded System Design Engineering from Lambton College, Toronto Campus. My major area of intrest are Image Processing, Data Structures, Software Development, Embedded System and Control Design Engineering. 
 
+![github stats](https://github-readme-stats.vercel.app/api?username=zrajani&count_private=true&show_icons=true&theme=react)
+
+![top langs](https://github-readme-stats.vercel.app/api/top-langs/?username=zrajani&theme=react)
+
 ### Connect with me via 😊 : 
 Youtube channel: &nbsp; &nbsp; [<img src="https://simpleicons.org/icons/youtube.svg" alt="https://www.youtube.com/channel/UCHB-n0tcQdLlEWn9jAcUddg?view_as=subscriber" width="5%">](https://www.youtube.com/channel/UCHB-n0tcQdLlEWn9jAcUddg?view_as=subscriber)
 
