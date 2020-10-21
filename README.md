@@ -9,19 +9,19 @@ I am Zain Rajani. Currently I am pursuing Post Graduate Diploma in Embedded Syst
 <!--![top langs](https://github-readme-stats.vercel.app/api/top-langs/?username=zrajani&theme=react)-->
 
 
-### Connect with me via : 
+### Connect with me via :  [<img src="https://simpleicons.org/icons/youtube.svg" alt="https://www.youtube.com/channel/UCHB-n0tcQdLlEWn9jAcUddg?view_as=subscriber" width="5%">](https://www.youtube.com/channel/UCHB-n0tcQdLlEWn9jAcUddg?view_as=subscriber)
 
-[<img src="https://simpleicons.org/icons/youtube.svg" alt="https://www.youtube.com/channel/UCHB-n0tcQdLlEWn9jAcUddg?view_as=subscriber" width="5%">](https://www.youtube.com/channel/UCHB-n0tcQdLlEWn9jAcUddg?view_as=subscriber)
 
-### 🌱 I’m currently learning: 
 
-<img src="https://www.osetc.com/en/wp-content/uploads/2019/03/install-opencv1.gif" alt="OpenCV" width="15%">,<img src="https://simpleicons.org/icons/javascript.svg" alt="JavaScript" width="5%">,<img src="https://simpleicons.org/icons/linux.svg" alt="Linux OS" width="5%">
+### 🌱 I’m currently learning:  <img src="https://www.osetc.com/en/wp-content/uploads/2019/03/install-opencv1.gif" alt="OpenCV" width="15%">,<img src="https://simpleicons.org/icons/javascript.svg" alt="JavaScript" width="5%">,<img src="https://simpleicons.org/icons/linux.svg" alt="Linux OS" width="5%">
+
+
 
 ### :sunglasses: Ask me About: 
 
-### 🔭 I'm thinking to get started with:  
 
-<img src="https://simpleicons.org/icons/r.svg" alt="R Programming" width="5%">, <img src="https://simpleicons.org/icons/python.svg" alt="Python" width="5%">, <img src="https://simpleicons.org/icons/tensorflow.svg" alt="TensorFlow" width="5%">......
+
+### 🔭 I'm thinking to get started with: <img src="https://simpleicons.org/icons/r.svg" alt="R Programming" width="5%">, <img src="https://simpleicons.org/icons/python.svg" alt="Python" width="5%">, <img src="https://simpleicons.org/icons/tensorflow.svg" alt="TensorFlow" width="5%">......
 
 <!--START_SECTION:activity-->
 
