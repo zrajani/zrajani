@@ -9,7 +9,7 @@ I am Zain Rajani. Currently I am pursuing Post Graduate Diploma in Embedded Syst
 <!--![top langs](https://github-readme-stats.vercel.app/api/top-langs/?username=zrajani&theme=react)-->
 
 
-### Connect with me via :  [<img src="https://simpleicons.org/icons/youtube.svg" alt="https://www.youtube.com/channel/UCHB-n0tcQdLlEWn9jAcUddg?view_as=subscriber" width="5%">](https://www.youtube.com/channel/UCHB-n0tcQdLlEWn9jAcUddg?view_as=subscriber) &nbsp;[<img src="https://lh3.googleusercontent.com/proxy/-wSrjdRJaIdHjV606lTl7xdtAEsCx_OrC-6qbpkIezXOx5t8M3U8G9750GPEdAc3-kuU7EWtVxce0tfS7bs3ndsu-eyDOyPX9UCr05mkrVGdz9NbfiY5DjotGiHny7U6iSFG-XziDVhTF8YqPCqdvsqJ-vHTky3hnw" alt="Linkedin Symbol" width="5%">](https://www.linkedin.com/in/zain-rajani-7293b1138/)
+### Connect with me via :  [<img src="https://simpleicons.org/icons/youtube.svg" alt="https://www.youtube.com/channel/UCHB-n0tcQdLlEWn9jAcUddg?view_as=subscriber" width="5%">](https://www.youtube.com/channel/UCHB-n0tcQdLlEWn9jAcUddg?view_as=subscriber) &nbsp;[<img src="https://image.similarpng.com/very-thumbnail/2020/07/Linkedin-logo-on-transparent-Background-PNG-.png" alt="Linkedin Symbol" width="5%">](https://www.linkedin.com/in/zain-rajani-7293b1138/)
 
 
 
