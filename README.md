@@ -8,7 +8,7 @@ I am Zain Rajani. Currently I am pursuing Post Graduate Diploma in Embedded Syst
 
 <!--![top langs](https://github-readme-stats.vercel.app/api/top-langs/?username=zrajani&theme=react)-->
 
-### My Skills: 
+### My Skills: _to be added_
 
 ### Connect with me via :  [<img src="https://simpleicons.org/icons/youtube.svg" alt="https://www.youtube.com/channel/UCHB-n0tcQdLlEWn9jAcUddg?view_as=subscriber" width="5%">](https://www.youtube.com/channel/UCHB-n0tcQdLlEWn9jAcUddg?view_as=subscriber) &nbsp;[<img src="https://image.similarpng.com/very-thumbnail/2020/07/Linkedin-logo-on-transparent-Background-PNG-.png" alt="Linkedin Symbol" width="5%">](https://www.linkedin.com/in/zain-rajani-7293b1138/) &nbsp; [<img src="https://simpleicons.org/icons/instagram.svg" alt="Instagram" width="5%">](https://www.instagram.com/zaintech_guy/) [<img src="https://static01.nyt.com/images/2014/08/10/magazine/10wmt/10wmt-superJumbo-v4.jpg" alt="Twitter" width="8%">](https://twitter.com/zrajani_zr)
 
