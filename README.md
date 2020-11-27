@@ -6,7 +6,7 @@ I am Zain Rajani. Currently I am pursuing Post Graduate Diploma in Embedded Syst
 
 ![github stats](https://github-readme-stats.vercel.app/api?username=zrajani&count_private=true&show_icons=true)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=zrajani&layout=compact&theme=react&langs_count=8)](https://github.com/zrajani/github-readme-stats)
+
 
 <!--![top langs](https://github-readme-stats.vercel.app/api/top-langs/?username=zrajani&theme=react)-->
 
