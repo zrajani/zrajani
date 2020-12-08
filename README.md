@@ -2,7 +2,7 @@
 
 <img src="https://github.com/zrajani/zrajani/blob/master/Zain%20Github%20Intro%20Image.png" alt="Banner of Self Introduction">
 
-I am Zain Rajani. Currently I am pursuing Post Graduate Diploma in Embedded System Design Engineering from Lambton College, Toronto Campus. My major area of intrest are Image Processing, Data Structures, Software Development, Embedded System and Control Design Engineering. 
+Hi there ! I am Zain Rajani. Currently I am pursuing Post Graduate Diploma in Embedded System Design Engineering from Lambton College, Toronto Campus. My major area of intrest are Image Processing, Data Structures, Software Development, Embedded System and Control Design Engineering. 
 
 ![github stats](https://github-readme-stats.vercel.app/api?username=zrajani&count_private=true&show_icons=true)
 
