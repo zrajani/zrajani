@@ -14,7 +14,7 @@ Hi there ! I am Zain Rajani. Currently I am pursuing Post Graduate Diploma in Em
 
 
 
-### 🌱 I’m currently learning:  <img src="https://www.osetc.com/en/wp-content/uploads/2019/03/install-opencv1.gif" alt="OpenCV" width="15%">,<img src="https://simpleicons.org/icons/javascript.svg" alt="JavaScript" width="5%">,<img src="https://simpleicons.org/icons/linux.svg" alt="Linux OS" width="5%">,<img src="https://simpleicons.org/icons/github.svg" alt="Github CLI" width="5%">
+### 🌱 I’m currently learning:  <img src="https://www.osetc.com/en/wp-content/uploads/2019/03/install-opencv1.gif" alt="OpenCV" width="15%">,<img src="https://simpleicons.org/icons/javascript.svg" alt="JavaScript" width="5%">,<img src="https://simpleicons.org/icons/linux.svg" alt="Linux OS" width="5%">,<img src="https://simpleicons.org/icons/github.svg" alt="Github CLI" width="5%">, <img src="https://repository-images.githubusercontent.com/122896249/65414f00-82d3-11e9-8cca-d13923f96a75" alt=GluonCV width="10%">
 
 
 
