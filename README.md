@@ -21,7 +21,7 @@ Hi there ! I am Zain Rajani. Currently I am pursuing Post Graduate Diploma in Em
 ### :sunglasses: Ask me About: <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/2/21/Matlab_Logo.png/668px-Matlab_Logo.png" alt="MATLAB" width="5%">, <img src="https://user-images.githubusercontent.com/42747200/46140125-da084900-c26d-11e8-8ea7-c45ae6306309.png" alt="C++ Programming" width="5%">, <img src="https://www.kindpng.com/picc/m/355-3559027_c-programming-language-logo-clipart-png-download-c.png" alt="C Programming" width="5%"> 
 
 
-### 🔭 I'm thinking to get started with: <img src="https://simpleicons.org/icons/r.svg" alt="R Programming" width="5%">, <img src="https://simpleicons.org/icons/python.svg" alt="Python" width="5%">, <img src="https://simpleicons.org/icons/tensorflow.svg" alt="TensorFlow" width="5%">, <img src ="https://cdn.iconscout.com/icon/free/png-512/data-science-46-1170621.png" alt="Data Science/Big Data" width="10%">
+### 🔭 I'm thinking to get started with: <img src="https://simpleicons.org/icons/r.svg" alt="R Programming" width="5%">, <img src="https://simpleicons.org/icons/python.svg" alt="Python" width="5%">, <img src="https://simpleicons.org/icons/tensorflow.svg" alt="TensorFlow" width="5%">, <img src ="https://cdn.iconscout.com/icon/free/png-512/data-science-46-1170621.png" alt="Data Science/Big Data" width="6%">
 
 <!--START_SECTION:activity-->
 
