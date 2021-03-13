@@ -12,8 +12,6 @@ Hi there ! I am Zain Rajani. Currently I am pursuing Post Graduate Diploma in Em
 
 ### Connect with me via :  [<img src="https://simpleicons.org/icons/youtube.svg" alt="https://www.youtube.com/channel/UCHB-n0tcQdLlEWn9jAcUddg?view_as=subscriber" width="5%">](https://www.youtube.com/channel/UCHB-n0tcQdLlEWn9jAcUddg?view_as=subscriber) &nbsp;[<img src="https://image.similarpng.com/very-thumbnail/2020/07/Linkedin-logo-on-transparent-Background-PNG-.png" alt="Linkedin Symbol" width="5%">](https://www.linkedin.com/in/zain-rajani-7293b1138/) &nbsp; [<img src="https://simpleicons.org/icons/instagram.svg" alt="Instagram" width="5%">](https://www.instagram.com/zaintech_guy/) [<img src="https://static01.nyt.com/images/2014/08/10/magazine/10wmt/10wmt-superJumbo-v4.jpg" alt="Twitter" width="8%">](https://twitter.com/zrajani_zr)
 
-[![counter](https://enqc5m3df4dmddt.m.pipedream.net)](http://tod.ly/3iOKHb2)
-
 ### 🌱 I’m currently learning:  <img src="https://blog.axopen.com/2019/09/opencv-logo.png" alt="OpenCV" width="15%">,<img src="https://simpleicons.org/icons/javascript.svg" alt="JavaScript" width="5%">,<img src="https://simpleicons.org/icons/linux.svg" alt="Linux OS" width="5%">,<img src="https://simpleicons.org/icons/github.svg" alt="Github CLI" width="5%">, <img src="https://repository-images.githubusercontent.com/122896249/65414f00-82d3-11e9-8cca-d13923f96a75" alt=GluonCV width="10%">
 
 
