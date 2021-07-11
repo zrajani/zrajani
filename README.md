@@ -21,6 +21,17 @@ Hi there ! I am Zain Rajani, Welcome to my programming space! I have completed m
 
 ### 🔭 I'm thinking to get started with: <img src="https://simpleicons.org/icons/r.svg" alt="R Programming" width="5%">, <img src="https://simpleicons.org/icons/python.svg" alt="Python" width="5%">, <img src="https://simpleicons.org/icons/tensorflow.svg" alt="TensorFlow" width="5%">, <img src ="https://cdn.iconscout.com/icon/free/png-512/data-science-46-1170621.png" alt="Data Science/Big Data" width="6%">
 
+<p align="right"><img align="right" src="https://github-readme-streak-stats.herokuapp.com/?user=zrajani&theme=radical" alt="sanchitvj" width="400" /></p>
+
+<p align="center">
+<a href="https://github.com/Ashutosh00710/github-readme-activity-graph">
+ <img src="https://activity-graph.herokuapp.com/graph?username=zrajani&theme=react-dark&area=true&hide_border=true" width="100%">
+</a>
+</p>
+
+
+<!-- [![Ashutosh's github activity graph](https://activity-graph.herokuapp.com/graph?username=zrajani)](https://github.com/zrajani/github-readme-activity-graph) -->
+
 <!--START_SECTION:activity-->
 
 <!--
