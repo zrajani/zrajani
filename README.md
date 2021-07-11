@@ -22,7 +22,7 @@ Hi there ! I am Zain Rajani, Welcome to my programming space! I have completed m
 ### 🔭 I'm thinking to get started with: <img src="https://simpleicons.org/icons/r.svg" alt="R Programming" width="5%">, <img src="https://simpleicons.org/icons/python.svg" alt="Python" width="5%">, <img src="https://simpleicons.org/icons/tensorflow.svg" alt="TensorFlow" width="5%">, <img src ="https://cdn.iconscout.com/icon/free/png-512/data-science-46-1170621.png" alt="Data Science/Big Data" width="6%">
 
 
-<p align="right"><img align="right" src="https://github-readme-streak-stats.herokuapp.com/?user=zrajani&theme=radical" alt="zrajani" width="400" /></p>
+<p align="right"><img align="right" src="https://github-readme-streak-stats.herokuapp.com/?user=zrajani&theme=merko&hide_border=false" alt="zrajani" width="400" /></p>
 
 <p align="center">
 <a href="https://github.com/zrajani/github-readme-activity-graph">
