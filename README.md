@@ -26,11 +26,14 @@ Hi there ! I am Zain Rajani, Welcome to my programming space! I have completed m
 
 <p align="center">
 <a href="https://github.com/zrajani/github-readme-activity-graph">
- <img src="https://activity-graph.herokuapp.com/graph?username=zrajani&theme=react-dark&area=true&hide_border=true" width="100%">
+ <img src="https://activity-graph.herokuapp.com/graph?username=zrajani&theme=react-dark&area=true&hide_border=false" width="100%">
 </a>
 </p>
 
-<!-- [![Ashutosh's github activity graph](https://activity-graph.herokuapp.com/graph?username=zrajani)](https://github.com/zrajani/github-readme-activity-graph) -->
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=zrajani&theme=tokyonight)](https://git.io/streak-stats)
+
+
+<!--[![Ashutosh's github activity graph](https://activity-graph.herokuapp.com/graph?username=zrajani)](https://github.com/zrajani/github-readme-activity-graph)-->
 
 <!--START_SECTION:activity-->
 
