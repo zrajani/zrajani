@@ -32,7 +32,7 @@ Hi there ! I am Zain Rajani, Welcome to my programming space! I have completed m
 
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=zrajani&theme=tokyonight)](https://git.io/streak-stats)
 
-
+*Looks like there is a problem with streak app*
 <!--[![Ashutosh's github activity graph](https://activity-graph.herokuapp.com/graph?username=zrajani)](https://github.com/zrajani/github-readme-activity-graph)-->
 
 <!--START_SECTION:activity-->
