@@ -32,6 +32,8 @@ Hi there ! I am Zain Rajani, Welcome to my programming space! I have completed m
 
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=zrajani&theme=tokyonight)](https://git.io/streak-stats)
 
+
+**Reorganisation of this file needs to be done**
 <!--[![Ashutosh's github activity graph](https://activity-graph.herokuapp.com/graph?username=zrajani)](https://github.com/zrajani/github-readme-activity-graph)-->
 
 <!--START_SECTION:activity-->
