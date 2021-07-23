@@ -5,8 +5,8 @@
 Hi there ! I am Zain Rajani, Welcome to my programming space! I have completed my Post Graduate Diploma in Embedded System Design Engineering from Lambton College, Toronto Campus. My major area of intrest are Image Processing, Data Structures, Software Development, Embedded System and Control Design Engineering. 
 
 ![github stats](https://github-readme-stats.vercel.app/api?username=zrajani&count_private=true&show_icons=true)
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=zrajani&layout=compact&theme=react&langs_count=8)](https://github.com/zrajani/github-readme-stats)
+ 
+ [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=zrajani&layout=compact&theme=react&langs_count=8)](https://github.com/zrajani/github-readme-stats)
 
 <!--![top langs](https://github-readme-stats.vercel.app/api/top-langs/?username=zrajani&theme=react)-->
 
@@ -34,7 +34,6 @@ Hi there ! I am Zain Rajani, Welcome to my programming space! I have completed m
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=zrajani&theme=tokyonight)](https://git.io/streak-stats)
 
 
-**Reorganisation of this file needs to be done**
 <!--[![Ashutosh's github activity graph](https://activity-graph.herokuapp.com/graph?username=zrajani)](https://github.com/zrajani/github-readme-activity-graph)-->
 
 <!--START_SECTION:activity-->
