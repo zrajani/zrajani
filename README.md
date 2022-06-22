@@ -53,8 +53,10 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ... It's working 
 -->
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=zrajani&style=flat-square" alt="profile views"/>
-
+<p>
 <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=zrajani&theme=monokai">
+</p>
+
+<p align="center">
+   <img src="https://komarev.com/ghpvc/?username=zrajani&style=flat-square" alt="profile views"/>
 </p>
